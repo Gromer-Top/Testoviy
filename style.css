@@ -1,3 +1,6 @@
-.videoElement{
-  
+body { font-family: sans-serif; }
+
+#videoElement{
+  width: 100vw;
+  height: 100vh;
 }
